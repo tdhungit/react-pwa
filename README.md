@@ -15,7 +15,7 @@ A highly scalable, Progressive Web Application foundation,boilerplate, with the 
 ### Quick Start
 Clone the repository:
 ```bash
-git clone https://github.com/Atyantik/react-pwa.git && cd react-pwa 
+git clone https://github.com/tdhungit/react-pwa.git && cd react-pwa 
 ```
 
 
